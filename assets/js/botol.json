@@ -1,0 +1,17 @@
+[
+    {
+        "code": "BOT1",
+        "name": "Botol Kaca 30ml",
+        "price": 5000
+    },
+    {
+        "code": "BOT2",
+        "name": "Botol Plastik 50ml",
+        "price": 3000
+    },
+    {
+        "code": "BOT3",
+        "name": "Botol Spray 100ml",
+        "price": 10000
+    }
+]

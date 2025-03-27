@@ -1,0 +1,22 @@
+[
+    {
+        "code": "A",
+        "name": "Bibit A",
+        "price": 1000
+    },
+    {
+        "code": "B",
+        "name": "Bibit B",
+        "price": 2500
+    },
+    {
+        "code": "C",
+        "name": "Bibit C",
+        "price": 3000
+    },
+    {
+        "code": "D",
+        "name": "Bibit D",
+        "price": 3500
+    }
+]

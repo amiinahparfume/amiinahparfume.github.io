@@ -1,0 +1,6 @@
+[
+    {"value": "tunai", "label": "Tunai", "icon": "fas fa-money-bill-wave", "color": "success"},
+    {"value": "transfer", "label": "Transfer", "icon": "fas fa-exchange-alt", "color": "primary"},
+    {"value": "qris", "label": "QRIS", "icon": "fas fa-qrcode", "color": "info"},
+    {"value": "split", "label": "Split", "icon": "fas fa-money-bill-wave", "color": "success"}
+]

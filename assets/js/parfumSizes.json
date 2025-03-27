@@ -1,0 +1,9 @@
+[
+    {"value": "15", "label": "15ml"},
+    {"value": "20", "label": "20ml"},
+    {"value": "30", "label": "30ml"},
+    {"value": "35", "label": "35ml"},
+    {"value": "50", "label": "50ml"},
+    {"value": "100", "label": "100ml"},
+    {"value": "manual", "label": "Manual"}
+]

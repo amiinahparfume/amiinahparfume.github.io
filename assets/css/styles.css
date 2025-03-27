@@ -1,0 +1,78 @@
+/* General Styles */
+
+.category-card {
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+}
+
+#receiptContent {
+  font-family: 'Courier New', monospace;
+}
+
+/* Button Styles */
+
+.size-btn, .ratio-btn {
+  flex: 1 0 auto;
+  min-width: 60px;
+}
+
+.size-btn.active {
+  background-color: var(--bs-primary);
+  color: white;
+}
+
+.ratio-btn.active {
+  background-color: var(--bs-success);
+  color: white;
+}
+
+/* Form Styles */
+
+#parfumQuantity:disabled {
+  background-color: #f8f9fa;
+}
+
+/* Payment Method Styles */
+
+.payment-method {
+  cursor: pointer;
+  transition: all 0.2s;
+  width: 80px;
+}
+
+.payment-method:hover {
+  transform: translateY(-3px);
+}
+
+.payment-method.active {
+  border-color: var(--bs-primary) !important;
+  background-color: rgba(13, 110, 253, 0.1) !important;
+}
+
+/* Split Payment Styles */
+
+#splitPaymentDetails {
+  display: none;
+}
+
+/* Shift Operator Styles */
+
+.shift-operator {
+  cursor: pointer;
+  transition: all 0.2s;
+  width: 80px;
+}
+
+.shift-operator:hover {
+  transform: translateY(-3px);
+}
+
+.shift-operator.active {
+  border-color: var(--bs-primary) !important;
+  background-color: rgba(13, 110, 253, 0.1) !important;
+}
+

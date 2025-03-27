@@ -1,0 +1,17 @@
+[
+    {
+        "code": "BON1",
+        "name": "Sample Gratis",
+        "price": 0
+    },
+    {
+        "code": "BON2",
+        "name": "Tisu Parfum",
+        "price": 0
+    },
+    {
+        "code": "BON3",
+        "name": "Kantong Kado",
+        "price": 0
+    }
+]
